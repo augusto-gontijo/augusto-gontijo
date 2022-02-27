@@ -1,10 +1,10 @@
 ## Hello! Welcome to my data science portfolio.
-<div>
+<div align="center">
  <a href="https://github.com/augusto-gontijo">
  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=augusto-gontijo&show_icons=true&theme=dark&include_all_commits=true"/>
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-gontijo&theme=dark&langs_count=7"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-gontijo&theme=dark&langs_count=7&card_width=500"/>
 </div>
-  
+   
 <div style:"display: inline_block"><br>  
   <img align="center" alt="ag-py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="ag-sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
