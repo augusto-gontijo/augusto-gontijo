@@ -1,7 +1,7 @@
 ## Hello! Welcome to my data science portfolio.
 <div>
  <a href="https://github.com/augusto-gontijo">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-gontijo&show_icons=true&theme=dark&include_all_commits=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-gontijo&show_icons=true&theme=dark"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-gontijo&theme=dark&langs_count=7&card_width=350"/>
 </div>
    
