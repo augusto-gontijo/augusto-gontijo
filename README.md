@@ -2,7 +2,7 @@
 <div>
  <a href="https://github.com/augusto-gontijo">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-gontijo&show_icons=true&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-gontijo&theme=dark&langs_count=7&layout=compact"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-gontijo&theme=dark&langs_count=7&layout=compact&card_width=220"/>
 </div>
    
 <div style="display: inline_block"><br>  
